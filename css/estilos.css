@@ -1,0 +1,29 @@
+body{
+/*	background: cyan;*/
+}
+@font-face{
+	font-family: "egu";
+	src:url("../fonts/egu-Bold.ttf"),
+	url("../fonts/egu-Light.ttf"),
+	url("../fonts/egu-Regular.ttf");
+	
+}
+@font-face{
+	font-family: "tipo2";
+	src:url("../fonts/tipo2.otf");
+}
+@font-face{
+	font-family: "Allura";
+	src:url("../fonts/Allura-Regular.otf");
+}
+h1{
+	font-family: "egu";
+	font-size: 70px;
+	
+}
+	/*font-family: 'Indie Flower', cursive;*/
+p{
+	font-family: 'Indie Flower', cursive;
+	font-size: 70px;
+
+}
